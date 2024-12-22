@@ -9,12 +9,19 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/html-elements": "^0.11.0",
+    "@native-html/iframe-plugin": "^2.6.1",
+    "@siposdani87/expo-rich-text-editor": "^1.0.9",
     "expo": "~52.0.20",
+    "expo-file-system": "~18.0.6",
     "expo-status-bar": "~2.0.0",
     "react": "18.3.1",
     "react-native": "0.76.5",
+    "react-native-cn-quill": "^0.7.18",
+    "react-native-htmlview": "^0.17.0",
     "react-native-pell-rich-editor": "^1.9.0",
-    "react-native-webview": "^13.12.5"
+    "react-native-render-html": "^6.3.4",
+    "react-native-webview": "13.12.5"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
